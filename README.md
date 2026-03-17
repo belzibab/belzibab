@@ -2,11 +2,11 @@
 ## Hi 👋 I'm Bel
 
 Technologies
-- Linux
-- AWS
+- ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+- ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
 - Azure
-- Docker
-- Python
+- ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+- ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 - Bash
 
 What I'm working On
