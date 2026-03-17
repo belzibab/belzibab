@@ -4,7 +4,7 @@
 Technologies
 - ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 - ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
-- Azure
+- ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 - ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 - Bash
