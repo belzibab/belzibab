@@ -1,17 +1,15 @@
 ![image alt](https://github.com/belzibab/belzibab/blob/129fa93a7ee666be491ff487f5fdb5b211be26c1/Daniel%20F.%20Rojas.png)
-## Hi there 👋
+## Hi 👋 I'm Bel
 
-<!--
-**belzibab/belzibab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technologies
+- Linux
+- AWS
+- Azure
+- Docker
+- Python
+- Bash
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm working On
+- Cloud Infrastructure labs
+- DevOps automation
+- Cybersecurity learning labs
