@@ -1,7 +1,8 @@
 ![image alt](https://github.com/belzibab/belzibab/blob/68e27b911d38e241ca7d094f12bfb4c08c6acf6e/Daniel%20F.%20Rojas%20(1).png)
 ## Hi 👋 I'm Bel
 
-Technologies
+Technologies:
+
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux) ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white) ![Python](https://img.shields.io/badge/Python-yellow?logo=python) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 
 ## About Me
