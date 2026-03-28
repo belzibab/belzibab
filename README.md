@@ -1,4 +1,4 @@
-![image alt](https://github.com/belzibab/belzibab/blob/129fa93a7ee666be491ff487f5fdb5b211be26c1/Daniel%20F.%20Rojas.png)
+![image alt](https://github.com/belzibab/belzibab/blob/68e27b911d38e241ca7d094f12bfb4c08c6acf6e/Daniel%20F.%20Rojas%20(1).png)
 ## Hi 👋 I'm Bel
 
 Technologies
