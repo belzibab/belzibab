@@ -5,7 +5,8 @@ Technologies:
 
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux) ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white) ![Python](https://img.shields.io/badge/Python-yellow?logo=python) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,perline,kubernetes=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,perline=3)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker)]
 
 ## About Me
 ☁️ Cloud infrastructure labs (GCP, AWS, Azure)
