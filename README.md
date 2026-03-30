@@ -6,7 +6,6 @@ Technologies:
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,gcp,azure,git,kubernetes,docker,python,terraform,perline=10)](https://skillicons.dev)
 
 ## About Me
-☁️ Cloud infrastructure labs (GCP, AWS, Azure)
 
 Cloud & DevOps enthusiast with a strong focus on building scalable, reliable, and automated systems. I work with technologies like AWS, GCP, Azure, Kubernetes, Terraform, and CI/CD pipelines to design infrastructure that is both efficient and production-ready.
 
